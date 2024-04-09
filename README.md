@@ -1,6 +1,6 @@
 <h1>NLW UNITE</h1>
 
-## Esse projeto realizado no evento online nlw unite da rocketseat consiste em, uma aplicação simples para gerenciar inscrições de participantes em eventos, podendo também realizar a confirmação de seu check-in.
+<p>Esse projeto realizado no evento online Nlw Unite da rocketseat consiste em, uma aplicação simples para gerenciar inscrições de participantes em eventos, podendo também realizar a confirmação de seu check-in.</p>
 
 <p>Utilizando das tecnologias HTML, CSS e JavaScript.</p>
 <div style="display: inline_block">
