@@ -2,6 +2,9 @@
 
 <p>Esse projeto realizado no evento online Nlw Unite da rocketseat consiste em, uma aplicação simples para gerenciar inscrições de participantes em eventos, podendo também realizar a confirmação de seu check-in.</p>
 
+![projeto-nlw1](https://github.com/kalyel/nlw-unite/assets/29384285/c71f7406-363b-458b-8690-81d77a779d42)
+
+
 <p>Utilizando das tecnologias HTML, CSS e JavaScript.</p>
 <div style="display: inline_block">
   
